@@ -25,18 +25,15 @@ organizations:
     url: https://www.nottingham.ac.uk/
 education:
   courses:
-    - course: Masters Degree - Economics
+    - course: MSc Economics
       institution: Universität Konstanz
       year: 2018-19
-    - course: Msc Degree - Economics and Financial Economics
+    - course: MSc Economics and Financial Economics
       institution: University of Nottingham
-      year: 2018-19
-    - course: Msc Degree - Economics
-      institution: Universit¨at Konstanz
       year: 2017-18
-    - course: Ba Hons Degree - Financial Economics
+    - course: BA Hons Degree - Financial Economics
       institution: Coventry University
-      year: 2018-19
+      year: 2013-17
 email: benjamin.tatlow@nottingham.ac.uk
 superuser: true
 highlight_name: true
