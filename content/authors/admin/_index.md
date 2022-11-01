@@ -26,7 +26,7 @@ organizations:
 education:
   courses:
     - course: Masters Degree - Economics
-      institution: Universit¨at Konstanz
+      institution: Universität Konstanz
       year: 2018-19
     - course: Msc Degree - Economics and Financial Economics
       institution: University of Nottingham
