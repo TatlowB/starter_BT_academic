@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: benjamin.tatlow@nottingham.ac.uk
-  address: School of Economics. Office C43, Sir Clive Granger Building, University Park. University of Nottingham, Nottingham NG7 2RD
+#  address: School of Economics. Office C43, Sir Clive Granger Building, University Park. University of Nottingham, Nottingham NG7 2RD
   contact_links:
     - icon: twitter
       icon_pack: fab
