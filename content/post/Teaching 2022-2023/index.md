@@ -16,13 +16,6 @@ image:
 <!--StartFragment-->
 
 Autumn Semester 
-
-\- Econometric Theory Tutorials (2nd Yr Undergraduates)
-
-\-Econometric Theory Computer Classes -Stata (2nd Year Undergraduates) 
-
-\- Applied Econometrics Tutorials (2nd Year Undergraduates)  
-
-<ul>   <li>Econometric Theory Tutorials (2nd Yr Undergraduates)</li>   <li>Econometric Theory Computer Classes -Stata (2nd Year Undergraduates) /li>   <li>Applied Econometrics Tutorials (2nd Year Undergraduates) </li> </ul>
+<ul>   <li>Econometric Theory Tutorials (2nd Yr Undergraduates)</li>   <li>Econometric Theory Computer Classes -Stata (2nd Year Undergraduates) </li>   <li>Applied Econometrics Tutorials (2nd Year Undergraduates) </li> </ul>
 
 <!--EndFragment-->
