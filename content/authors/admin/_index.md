@@ -8,12 +8,12 @@ interests:
   - High Frequency Data
   - Interconnectedness and Contagion
 #social:
-  #- icon: envelope
+  - icon: envelope
     #icon_pack: fas
     #link: /#contact
-  #- icon: twitter
+  - icon: twitter
     #icon_pack: fab
-    #link: https://twitter.com/ji_vizcaino
+    #link: https://twitter.com/TatlowB
   #- icon: graduation-cap
     #icon_pack: fas
     #link: https://scholar.google.com/citations?user=2I4to1IAAAAJ&hl=en
@@ -40,6 +40,6 @@ highlight_name: true
 ---
 I am a current PhD candidate in the [School of Economics](https://www.google.com/url?q=https%3A%2F%2Fwww.nottingham.ac.uk%2Feconomics%2F&sa=D&sntz=1&usg=AFQjCNHTauq0gxeDcjP1drYCxVNEfMsyLQ).
 
-My current research focus is on the application of econometric tests in order to examine Asset Bubbles within High Frequency Data. My main areas of interest are time series econometrics, asset price bubbles, High Frequency Data, and Interconnectedness and Contagion.
+My current research focus is on the application of econometric tests in order to examine Asset Bubbles within High Frequency Data. My main areas of interest are time series econometrics, asset price bubble detection and monitoring, the stylised facts of high frequency data, and interconnectedness and contagion within assets.
 
 
