@@ -23,14 +23,6 @@ Autumn Semester
 
 \- Applied Econometrics Tutorials (2nd Year Undergraduates)  
 
-
-
-<!--StartFragment-->
-
-| A﻿utumn Semester                                                                                                                                                                                                                          |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ` <ul>   <li>`Econometric Theory Tutorials (2nd Yr Undergraduates)`</li>   <li>`Econometric Theory Computer Classes -Stata (2nd Year Undergraduates) `/li>   <li>`Applied Econometrics Tutorials (2nd Year Undergraduates)  `</li> </ul>` |
-
-<!--EndFragment-->
+<ul>   <li>Econometric Theory Tutorials (2nd Yr Undergraduates)</li>   <li>Econometric Theory Computer Classes -Stata (2nd Year Undergraduates) /li>   <li>Applied Econometrics Tutorials (2nd Year Undergraduates) </li> </ul>
 
 <!--EndFragment-->
