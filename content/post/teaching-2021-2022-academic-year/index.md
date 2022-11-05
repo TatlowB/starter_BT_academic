@@ -1,5 +1,5 @@
 ---
-title: Teaching 2021-2022 Academic Year
+title: 2021-2022 Academic Year
 date: 2022-11-05T22:53:10.724Z
 draft: false
 featured: false
