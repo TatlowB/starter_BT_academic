@@ -8,7 +8,7 @@ interests:
   - High Frequency Data
   - Interconnectedness and Contagion
 social:
-  - icon: envelope
+  - icon: <i class="fa-thin fa-envelope"></i>
     icon_pack: fab
     link: /#contact
   - icon: twitter
