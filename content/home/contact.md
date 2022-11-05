@@ -37,7 +37,7 @@ content:
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: Twitter Link
+      name: Find me on Twitter
       link: 'https://twitter.com/TatlowB/'
 
 design:
