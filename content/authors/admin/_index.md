@@ -7,7 +7,7 @@ interests:
   - Asset Price Bubbles	
   - High Frequency Data
   - Interconnectedness and Contagion
-#social:
+social:
   - icon: envelope
     icon_pack: fab
     link: /#contact
