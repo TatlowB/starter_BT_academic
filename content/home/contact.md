@@ -26,14 +26,14 @@ content:
 
   # Contact details (edit or remove options as required)
   email: benjamin.tatlow@nottingham.ac.uk
-#  address: School of Economics. Office C43, Sir Clive Granger Building, University Park. University of Nottingham, Nottingham NG7 2RD
+#  address: , University Park. University of Nottingham, Nottingham NG7 2RD
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: School of Economics. Office C43, Sir Clive Granger Building, University Park. University of Nottingham
+    city: Nottingham
+    region:
+    postcode: 'NG7 2RD'
+    country: United Kingdom
+    country_code: 
   contact_links:
     - icon: twitter
       icon_pack: fab
