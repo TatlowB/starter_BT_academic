@@ -1,10 +1,7 @@
 ---
 
 title: Teaching in 2022-2023 Academic Year
-summary: Autumn Semester 
-- Econometric Theory Tutorials (2nd Yr Undergraduates)
-- Econometric Theory Computer Classes - Stata (2nd Year Undergraduates)
-- Applied Econometrics Tutorials (2nd Year Undergraduates)
+summary: Autumn Semester - Econometric Theory Tutorials (2nd Yr Undergraduates), Econometric Theory Computer Classes - Stata (2nd Year Undergraduates), Applied Econometrics Tutorials (2nd Year Undergraduates)
 
 # Summary for listings and search engines
 # Link this post with a project
