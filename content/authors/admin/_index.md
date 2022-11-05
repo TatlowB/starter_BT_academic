@@ -9,7 +9,7 @@ interests:
   - Interconnectedness and Contagion
 social:
   - icon: envelope
-    icon_pack: fab
+    icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
