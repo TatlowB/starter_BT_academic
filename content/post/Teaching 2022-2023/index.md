@@ -1,7 +1,7 @@
 ---
 title: 2022-2023 Academic Year
 date: 2022-10-05T00:00:00.000Z
-summary: ""
+summary: T﻿eaching within the 2022-2023 academic year.
 draft: false
 featured: true
 tags: []
