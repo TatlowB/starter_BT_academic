@@ -4,8 +4,9 @@ role: PhD Candidate in Economics
 bio: ""
 interests:
   - Time Series Econometrics
-  - Asset Price Bubbles	
+  - Asset Price Bubbles
   - High Frequency Data
+  - Financial Crisis
   - Interconnectedness and Contagion
 social:
   - icon: envelope
@@ -13,13 +14,7 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: 'https://twitter.com/TatlowB'
-  #- icon: graduation-cap
-    #icon_pack: fas
-    #link: https://scholar.google.com/citations?user=2I4to1IAAAAJ&hl=en
-  #- icon: github
-    #icon_pack: fab
-    #link: https://github.com/jivizcaino
+    link: https://twitter.com/TatlowB
 organizations:
   - name: University of Nottingham
     url: https://www.nottingham.ac.uk/
