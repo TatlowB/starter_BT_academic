@@ -20,6 +20,9 @@ organizations:
     url: https://www.nottingham.ac.uk/
 education:
   courses:
+    - course: PhD Economics
+      institution: University of Nottingham
+      year: Expected Submission 2024
     - course: MSc Economics
       institution: Universität Konstanz
       year: 2018-19
