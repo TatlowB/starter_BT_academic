@@ -6,7 +6,7 @@ interests:
   - Time Series Econometrics
   - Asset Price Bubbles
   - High Frequency Data
-  - Financial Crisis
+  - Financial Crises
   - Interconnectedness and Contagion
 social:
   - icon: envelope
