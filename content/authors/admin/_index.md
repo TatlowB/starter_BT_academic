@@ -15,6 +15,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/TatlowB
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://www.nottingham.ac.uk/economics/people/benjamin.tatlow
 organizations:
   - name: University of Nottingham
     url: https://www.nottingham.ac.uk/
