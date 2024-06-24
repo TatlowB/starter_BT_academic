@@ -18,8 +18,8 @@ abstract: This report replicates and examines Bauer et al.'s (2021) paper on
 draft: false
 featured: false
 image:
-  filename: featured
-  focal_point: Smart
+  filename: ""
+  focal_point: ""
   preview_only: false
 date: 2024-06-24T12:08:03.541Z
 ---
