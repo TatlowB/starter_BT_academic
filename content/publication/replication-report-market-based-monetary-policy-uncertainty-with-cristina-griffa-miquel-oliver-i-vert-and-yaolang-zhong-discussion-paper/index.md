@@ -23,4 +23,4 @@ image:
   preview_only: false
 date: 2024-06-24T12:08:03.541Z
 ---
-[Discussion Paper](https://ideas.repec.org/p/zbw/i4rdps/76.html) replicating and examining Bauer et al.'s (2021) paper on monetary policy transmission to financial markets
+[Discussion Paper](https://ideas.repec.org/p/zbw/i4rdps/76.html)
