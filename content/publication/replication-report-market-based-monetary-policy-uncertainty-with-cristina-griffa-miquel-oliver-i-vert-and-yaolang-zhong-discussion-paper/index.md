@@ -1,6 +1,6 @@
 ---
 title: "Replication Report: Market-Based Monetary Policy Uncertainty (with
-  Cristina Griffa, Miquel Oliver i Vert, and Yaolang Zhong) - Discussion Paper"
+  Cristina Griffa, Miquel Oliver i Vert, and Yaolang Zhong)"
 publication_types:
   - "4"
   - "2"
@@ -16,10 +16,11 @@ abstract: This report replicates and examines Bauer et al.'s (2021) paper on
   various financial assets, such as Gold, the Swiss Franc, European stock
   indexes, and Bitcoin.
 draft: false
-featured: false
+featured: true
 image:
   filename: ""
   focal_point: ""
   preview_only: false
 date: 2024-06-24T12:08:03.541Z
 ---
+[Discussion Paper](https://ideas.repec.org/p/zbw/i4rdps/76.html) replicating and examining Bauer et al.'s (2021) paper on monetary policy transmission to financial markets
