@@ -15,49 +15,76 @@ image:
 #### Autumn Semester
 
 ECON2005 Applied Econometrics I (2nd Yr Undergraduates)
+
+
 Teaching Tutorials and Exam Marking
 
 #### Spring Semester
 
 ECON2006 Applied Econometrics II (2nd Yr Undergraduates)
+
+
 Teaching Tutorials and Exam Marking
 
 ### <ins>2022/2023</ins>
 
-#### 
-Autumn Semester
+#### Autumn Semester
+
+
 
 ECON2002 Econometric Theory I (2nd Yr Undergraduates)
+
+
 Teaching Tutorials
+
+
 ECON2005 Applied Econometrics (2nd Yr Undergraduates)
+
+
 Teaching Tutorials and Exam Marking
 
 #### Spring Semester
 
 ECON2004 Econometric Theory II (2nd Yr Undergraduates)
+
+
 Teaching Tutorials
+
+
 ECON2012 Financial Economics (2nd Yr Undergraduates)
+
+
 Teaching Tutorials and Exam Marking
-ECON3001 Economics Dissertation (3rd Yr Undergraduates) 
+
+
+ECON3001 Economics Dissertation (3rd Yr Undergraduates)
+
+ 
 Teaching Computer Classes
 
 ### <ins>2021/2022</ins>
 
-#### 
-Autumn Semester
+#### Autumn Semester
 
 ECON2002 Econometric Theory I (2nd Yr Undergraduates)
+
+
 Teaching Tutorials and Exam Marking
+
+
 
 #### Spring Semester
 
 ECON2004 Econometric Theory II (2nd Yr Undergraduates)
+
+
 Teaching Tutorials, Computer Classes and Exam Marking
 
 ### <ins>2020/2021</ins>
 
-#### 
-Autumn Semester
+#### Autumn Semester
 
 Mathematical Economics & Econometrics (1st Yr Undergraduates)
-Tutorial and Covering Lecture
+
+
+Tutorial and Covering Lectures
