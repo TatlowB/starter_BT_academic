@@ -1,7 +1,7 @@
 ---
-title: 2021-2022 Academic Year
+title: 2025-2026 Academic Year
 date: 2022-11-05T22:53:10.724Z
-summary: T﻿eaching within the 2021-2022 academic year.
+summary: T﻿eaching within the 2025-2026 academic year.
 draft: false
 featured: false
 image:
@@ -9,18 +9,39 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-<!--StartFragment-->
+### <ins>2025/2026</ins> 
 
-Autumn Semester 
+#### Autumn Semester
 
-<ul>   <li>Econometric Theory I Tutorials (2nd Yr Undergraduates)</li>  </ul>
+ECON2005 Applied Econometrics I (2nd Year Undergraduates)
 
-S﻿pring Semester
 
-<li>Econometric Theory II Tutorials (2nd Yr Undergraduates)</li>
+Implementing Hybrid Lecture Series Alongside Prof A Barr, Teaching Tutorials, and Exam/Coursework Marking
 
-<li>Econometric Theory II Computer Classes (2nd Yr Undergraduates) </li>
+ECON3001 Economics Dissertation (3rd Year Undergraduates)
 
-<li>Econometrics Dissertations  (3rd Yr Undergraduates)</li>
 
-<!--EndFragment-->
+Teaching Tutorials and Computer Classes
+
+#### Spring Semester
+
+NAA1694 Economic Analysis with Excel (2nd and 3rd Year Undergraduates)
+
+Module Convener - Creating Course Content, Giving Lectures and Computer Classes
+
+
+ECON1016 Current Economic Issues (1st Year Undergraduates)
+
+
+Implementing Hybrid Lecture Series Alongside Profs A Valei, S Bougheas, J Bradley, A Vigier, and M Zahran
+
+
+ECON3001 Economics Dissertation (3rd Year Undergraduates)
+
+
+Teaching Tutorials and Computer Classes, and providing student support in Online Coding and Writing Clinics
+
+#### Throughout Year
+
+ECON3001 Economics Dissertation
+Supervising 10 student dissertations covering a variety of research topics.
