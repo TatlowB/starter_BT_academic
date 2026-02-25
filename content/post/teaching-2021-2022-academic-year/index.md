@@ -43,5 +43,5 @@ Teaching Tutorials and Computer Classes, and providing student support in Online
 
 #### Throughout Year
 
-ECON3001 Economics Dissertation
+ECON3001 Economics Dissertation  (3rd Year Undergraduates)
 Supervising 10 student dissertations covering a variety of research topics.
