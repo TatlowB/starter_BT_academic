@@ -13,18 +13,30 @@ image:
   placement: 2
   preview_only: false
 ---
-### <ins>2024/2025</ins> 
+### <ins>2024/2025</ins>
 
-#### 
-Autumn Semester
+#### Autumn Semester
 
 ECON4001 Econometric Theory (Masters Students)
+
+
 Teaching Tutorials
 
 #### Spring Semester
 
 NAA1694 Economic Analysis with Excel (2nd and 3rd Year Undergraduates)
+
+
 Module Convener - Creating Course Content, Giving Lectures and Computer Classes
 
 ECON2050 Econometric Theory II (2nd Year Undergraduates)
+
+
 Module Convener - Creating Course Content, Giving Lectures, Exam Marking and Moderation
+
+#### Throughout Year
+
+ECON3001 Economics Dissertation
+
+
+Supervising 11 student dissertations covering a variety of research topics.
