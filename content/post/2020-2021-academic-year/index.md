@@ -2,7 +2,7 @@
 title: Previous Teaching
 subtitle: Teaching covering 2020-2024
 date: 2022-11-09T10:24:29.274Z
-summary: T﻿eaching within the 2020-2021 academic year.
+summary: ""
 draft: false
 featured: false
 image:
