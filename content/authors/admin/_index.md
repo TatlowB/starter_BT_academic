@@ -1,5 +1,4 @@
 ---
-title: Benjamin Sidney Tatlow
 role: PhD Graduate in Economics
 bio: ""
 interests:
@@ -8,13 +7,10 @@ interests:
   - High Frequency and 'Big' Data
   - Financial Crises, Interconnectedness and Contagion
   - Cryptocurrences
-  - social:
+  - ? social
   - icon: envelope
     icon_pack: fas
     link: /#contact
- # - icon: twitter
- #   icon_pack: fab
- #   link: https://twitter.com/TatlowB
   - icon: graduation-cap
     icon_pack: fas
     link: https://www.nottingham.ac.uk/economics/people/benjamin.tatlow
@@ -35,14 +31,13 @@ education:
     - course: BA Hons Degree - Financial Economics
       institution: Coventry University
       year: 2013-17
-email: ben.tatlow@nottingham.ac.uk
 superuser: true
 highlight_name: true
+title: Benjamin Sidney Tatlow
+email: ben.tatlow@nottingham.ac.uk
 ---
-I am a PhD Graduate of the [School of Economics](https://www.google.com/url?q=https%3A%2F%2Fwww.nottingham.ac.uk%2Feconomics%2F&sa=D&sntz=1&usg=AFQjCNHTauq0gxeDcjP1drYCxVNEfMsyLQ), where I am currently working as a Teaching Associate.
+I am a PhD Graduate of the [University of Nottingham School of Economics](https://www.google.com/url?q=https%3A%2F%2Fwww.nottingham.ac.uk%2Feconomics%2F&sa=D&sntz=1&usg=AFQjCNHTauq0gxeDcjP1drYCxVNEfMsyLQ), where I am currently working as a Teaching Associate.
 
 I am Interested in and Looking for Analyst Roles located in Norway.
 
 My current research focus is on the application of econometric tests in order to examine linkages between assets experiencing explosive behaviour. My main areas of interest are time series econometrics, asset price bubble detection and monitoring, usages of High Frequency and 'Big' data, and interconnectedness and contagion within assets.
-
-
